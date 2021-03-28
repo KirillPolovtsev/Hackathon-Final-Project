@@ -20,3 +20,19 @@ AVL.h - This was the header file in C for the AVL Tree data structure to store t
 AVL.c - This was the source file that inserts Nodes into the Tree, as well as balances the Tree
 
 TreeLoader.c - This was the source fiile that loads the Stock data from a text file into the Tree
+
+Required packages:
+
+pandas
+
+pandas-datareader
+
+datetime
+
+plotly
+
+tkinter
+
+pillow
+
+kaleido
